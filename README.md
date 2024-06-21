@@ -11,3 +11,5 @@
   - Download then individually 
   - save them in bigger folder
   - Open that bigger folder in your IDE then hit run in th GameMain.java
+
+I'll add explanation to the code later
