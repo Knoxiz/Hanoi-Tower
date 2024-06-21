@@ -1,3 +1,6 @@
+/* Name: Nguyễn Huỳnh Minh Thông - ITITIU21321
+ Purpose: This program purpose is to create a runable program and to test basic knowledge in DSA and OOP
+*/
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileInputStream;

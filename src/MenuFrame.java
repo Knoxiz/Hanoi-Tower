@@ -1,4 +1,6 @@
-
+/* Name: Nguyễn Huỳnh Minh Thông - ITITIU21321
+ Purpose: This program purpose is to create a runable program and to test basic knowledge in DSA and OOP
+*/
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Image;
